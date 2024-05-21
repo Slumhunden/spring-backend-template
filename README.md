@@ -2,7 +2,7 @@
 
 This is a simple template. Change the name of the packages if you want to use a different name than spring-backend-template.
 
-Go to src/main/java/ and change the name of the package to the desired name.
+Go to src/main/java/ and change the name of the package to the desired name. To rename: right click template.springbackendtemplate -> refactor -> rename -> all directories.
 
 Also check the pom.xml file and change the name of the artifactId and groupId to the one you want to use.
 
